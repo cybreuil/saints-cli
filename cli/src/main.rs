@@ -27,10 +27,10 @@ fn main() {
     let (month, day) = if let Some(date_str) = args.date {
         let date = chrono::NaiveDate::parse_from_str(&date_str, "%Y-%m-%d")
             .expect("Date must be in YYYY-MM-DD format");
-        (date.month0() + 1, date.day())
+        (date.month(), date.day())
     } else {
         let today = Local::now().date_naive();
-        (today.month0() + 1, today.day())
+        (today.month(), today.day())
     };
 
     // Find all saints for the chosen date
