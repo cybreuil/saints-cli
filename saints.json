@@ -1,0 +1,2249 @@
+[
+	{
+		"month": 1,
+		"day": 1,
+		"name": "Mary, Mother of God",
+		"description": "Solemnity of Mary, Mother of God."
+	},
+	{
+		"month": 1,
+		"day": 2,
+		"name": "Saint Basil the Great",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 1,
+		"day": 2,
+		"name": "Saint Gregory Nazianzen",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 1,
+		"day": 3,
+		"name": "The Most Holy Name of Jesus",
+		"description": "Feast of the Holy Name of Jesus."
+	},
+	{
+		"month": 1,
+		"day": 4,
+		"name": "Saint Elizabeth Ann Seton",
+		"description": "Religious, founder of the Sisters of Charity."
+	},
+	{
+		"month": 1,
+		"day": 5,
+		"name": "Saint John Neumann",
+		"description": "Bishop, founder of the first diocesan Catholic school system in the US."
+	},
+	{
+		"month": 1,
+		"day": 6,
+		"name": "Epiphany of the Lord",
+		"description": "Celebration of the visit of the Magi to the Christ Child."
+	},
+	{
+		"month": 1,
+		"day": 7,
+		"name": "Saint Raymond of Peñafort",
+		"description": "Priest and patron saint of canon lawyers."
+	},
+	{
+		"month": 1,
+		"day": 8,
+		"name": "Saint Apollinaris the Apologist",
+		"description": "Bishop and apologist."
+	},
+	{
+		"month": 1,
+		"day": 9,
+		"name": "Saint Adrian of Canterbury",
+		"description": "Abbot and scholar."
+	},
+	{
+		"month": 1,
+		"day": 10,
+		"name": "Saint Gregory of Nyssa",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 1,
+		"day": 11,
+		"name": "Saint Theodosius the Cenobiarch",
+		"description": "Abbot and founder of cenobitic monasticism."
+	},
+	{
+		"month": 1,
+		"day": 12,
+		"name": "Saint Marguerite Bourgeoys",
+		"description": "Religious and founder of the Congregation of Notre Dame of Montreal."
+	},
+	{
+		"month": 1,
+		"day": 13,
+		"name": "Saint Hilary of Poitiers",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 1,
+		"day": 14,
+		"name": "Saint Felix of Nola",
+		"description": "Priest and confessor."
+	},
+	{
+		"month": 1,
+		"day": 15,
+		"name": "Saint Paul the Hermit",
+		"description": "Hermit and the first Christian hermit."
+	},
+	{
+		"month": 1,
+		"day": 15,
+		"name": "Saint Maurus",
+		"description": "Disciple of Saint Benedict."
+	},
+	{
+		"month": 1,
+		"day": 16,
+		"name": "Saint Berard and Companions",
+		"description": "Franciscan martyrs."
+	},
+	{
+		"month": 1,
+		"day": 17,
+		"name": "Saint Anthony the Abbot",
+		"description": "Father of monasticism."
+	},
+	{
+		"month": 1,
+		"day": 18,
+		"name": "Saint Margaret of Hungary",
+		"description": "Princess and Dominican nun."
+	},
+	{
+		"month": 1,
+		"day": 19,
+		"name": "Saint Canute",
+		"description": "King and martyr."
+	},
+	{
+		"month": 1,
+		"day": 20,
+		"name": "Saint Fabian",
+		"description": "Pope and martyr."
+	},
+	{
+		"month": 1,
+		"day": 20,
+		"name": "Saint Sebastian",
+		"description": "Martyr and patron of athletes."
+	},
+	{
+		"month": 1,
+		"day": 21,
+		"name": "Saint Agnes",
+		"description": "Virgin and martyr."
+	},
+	{
+		"month": 1,
+		"day": 22,
+		"name": "Saint Vincent of Saragossa",
+		"description": "Deacon and martyr."
+	},
+	{
+		"month": 1,
+		"day": 23,
+		"name": "Saint Marianne Cope",
+		"description": "Religious and missionary to lepers in Hawaii."
+	},
+	{
+		"month": 1,
+		"day": 24,
+		"name": "Saint Francis de Sales",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 1,
+		"day": 25,
+		"name": "Conversion of Saint Paul",
+		"description": "Feast commemorating the conversion of the Apostle Paul."
+	},
+	{
+		"month": 1,
+		"day": 26,
+		"name": "Saints Timothy and Titus",
+		"description": "Bishops and disciples of Saint Paul."
+	},
+	{
+		"month": 1,
+		"day": 27,
+		"name": "Saint Angela Merici",
+		"description": "Virgin and founder of the Ursulines."
+	},
+	{
+		"month": 1,
+		"day": 28,
+		"name": "Saint Thomas Aquinas",
+		"description": "Priest and Doctor of the Church."
+	},
+	{
+		"month": 1,
+		"day": 29,
+		"name": "Saint Gildas the Wise",
+		"description": "Abbot and historian."
+	},
+	{
+		"month": 1,
+		"day": 30,
+		"name": "Saint Martina",
+		"description": "Virgin and martyr."
+	},
+	{
+		"month": 1,
+		"day": 31,
+		"name": "Saint John Bosco",
+		"description": "Priest and founder of the Salesians."
+	},
+	{
+		"month": 2,
+		"day": 1,
+		"name": "Saint Brigid of Ireland",
+		"description": "Abbess and patroness of Ireland."
+	},
+	{
+		"month": 2,
+		"day": 2,
+		"name": "Presentation of the Lord",
+		"description": "Feast of the Presentation of Jesus at the Temple (Candlemas)."
+	},
+	{
+		"month": 2,
+		"day": 3,
+		"name": "Saint Blaise",
+		"description": "Bishop and martyr, patron of throat illnesses."
+	},
+	{
+		"month": 2,
+		"day": 3,
+		"name": "Saint Ansgar",
+		"description": "Bishop and missionary to Scandinavia."
+	},
+	{
+		"month": 2,
+		"day": 4,
+		"name": "Saint Joseph of Leonessa",
+		"description": "Capuchin friar and missionary."
+	},
+	{
+		"month": 2,
+		"day": 5,
+		"name": "Saint Agatha",
+		"description": "Virgin and martyr, patroness of nurses and breast cancer patients."
+	},
+	{
+		"month": 2,
+		"day": 6,
+		"name": "Saint Paul Miki and Companions",
+		"description": "Martyrs of Japan."
+	},
+	{
+		"month": 2,
+		"day": 7,
+		"name": "Saint Richard of Lucca",
+		"description": "Pilgrim and father of Saints Willibald, Winibald, and Walburga."
+	},
+	{
+		"month": 2,
+		"day": 8,
+		"name": "Saint Josephine Bakhita",
+		"description": "Sudanese-Italian religious and former slave."
+	},
+	{
+		"month": 2,
+		"day": 9,
+		"name": "Saint Apollonia",
+		"description": "Virgin and martyr, patroness of dentists."
+	},
+	{
+		"month": 2,
+		"day": 10,
+		"name": "Saint Scholastica",
+		"description": "Virgin and twin sister of Saint Benedict."
+	},
+	{
+		"month": 2,
+		"day": 11,
+		"name": "Our Lady of Lourdes",
+		"description": "Commemoration of the Marian apparitions at Lourdes."
+	},
+	{
+		"month": 2,
+		"day": 12,
+		"name": "Saint Julian the Hospitaller",
+		"description": "Patron of travelers and innkeepers."
+	},
+	{
+		"month": 2,
+		"day": 13,
+		"name": "Saint Catherine de Ricci",
+		"description": "Dominican tertiary and mystic."
+	},
+	{
+		"month": 2,
+		"day": 14,
+		"name": "Saints Cyril and Methodius",
+		"description": "Brothers and missionaries to the Slavs."
+	},
+	{
+		"month": 2,
+		"day": 14,
+		"name": "Saint Valentine",
+		"description": "Priest and martyr, patron of lovers."
+	},
+	{
+		"month": 2,
+		"day": 15,
+		"name": "Saint Claude de la Colombière",
+		"description": "Jesuit priest and spiritual director of Saint Margaret Mary Alacoque."
+	},
+	{
+		"month": 2,
+		"day": 16,
+		"name": "Saint Juliana of Nicomedia",
+		"description": "Virgin and martyr."
+	},
+	{
+		"month": 2,
+		"day": 17,
+		"name": "Seven Holy Founders of the Servite Order",
+		"description": "Founders of the Servite Order."
+	},
+	{
+		"month": 2,
+		"day": 18,
+		"name": "Saint Simeon of Jerusalem",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 2,
+		"day": 19,
+		"name": "Saint Conrad of Piacenza",
+		"description": "Hermit and Franciscan tertiary."
+	},
+	{
+		"month": 2,
+		"day": 20,
+		"name": "Saints Francisco and Jacinta Marto",
+		"description": "Visionaries of Fatima."
+	},
+	{
+		"month": 2,
+		"day": 21,
+		"name": "Saint Peter Damian",
+		"description": "Bishop, cardinal, and Doctor of the Church."
+	},
+	{
+		"month": 2,
+		"day": 22,
+		"name": "Chair of Saint Peter",
+		"description": "Feast of the authority of the papacy."
+	},
+	{
+		"month": 2,
+		"day": 23,
+		"name": "Saint Polycarp",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 2,
+		"day": 24,
+		"name": "Saint John Theristus",
+		"description": "Monk and abbot."
+	},
+	{
+		"month": 2,
+		"day": 25,
+		"name": "Saint Walburga",
+		"description": "Abbess and missionary."
+	},
+	{
+		"month": 2,
+		"day": 26,
+		"name": "Saint Porphyry of Gaza",
+		"description": "Bishop and confessor."
+	},
+	{
+		"month": 2,
+		"day": 27,
+		"name": "Saint Gabriel of Our Lady of Sorrows",
+		"description": "Passionist clerical student."
+	},
+	{
+		"month": 2,
+		"day": 28,
+		"name": "Saint Oswald of Worcester",
+		"description": "Bishop and reformer."
+	},
+	{
+		"month": 2,
+		"day": 29,
+		"name": "Saint Oswald of York",
+		"description": "Archbishop and confessor (celebrated on leap years)."
+	},
+	{
+		"month": 3,
+		"day": 1,
+		"name": "Saint David of Wales",
+		"description": "Bishop and patron saint of Wales."
+	},
+	{
+		"month": 3,
+		"day": 2,
+		"name": "Saint Agnes of Bohemia",
+		"description": "Princess and abbess."
+	},
+	{
+		"month": 3,
+		"day": 3,
+		"name": "Saint Katharine Drexel",
+		"description": "Religious and foundress of the Sisters of the Blessed Sacrament."
+	},
+	{
+		"month": 3,
+		"day": 4,
+		"name": "Saint Casimir",
+		"description": "Prince of Poland and patron of Lithuania."
+	},
+	{
+		"month": 3,
+		"day": 5,
+		"name": "Saint John Joseph of the Cross",
+		"description": "Franciscan priest and reformer."
+	},
+	{
+		"month": 3,
+		"day": 6,
+		"name": "Saint Colette",
+		"description": "Abbess and reformer of the Poor Clares."
+	},
+	{
+		"month": 3,
+		"day": 7,
+		"name": "Saints Perpetua and Felicity",
+		"description": "Martyrs of Carthage."
+	},
+	{
+		"month": 3,
+		"day": 8,
+		"name": "Saint John of God",
+		"description": "Religious and founder of the Brothers Hospitallers."
+	},
+	{
+		"month": 3,
+		"day": 9,
+		"name": "Saint Frances of Rome",
+		"description": "Religious and foundress of the Oblates of Mary."
+	},
+	{
+		"month": 3,
+		"day": 10,
+		"name": "Saint Macarius of Jerusalem",
+		"description": "Bishop and confessor."
+	},
+	{
+		"month": 3,
+		"day": 11,
+		"name": "Saint Eulogius of Córdoba",
+		"description": "Priest and martyr."
+	},
+	{
+		"month": 3,
+		"day": 12,
+		"name": "Saint Maximilian of Thebeste",
+		"description": "Martyr."
+	},
+	{
+		"month": 3,
+		"day": 13,
+		"name": "Saint Euphrasia",
+		"description": "Virgin and nun."
+	},
+	{
+		"month": 3,
+		"day": 14,
+		"name": "Saint Matilda",
+		"description": "Queen and patroness of parents with large families."
+	},
+	{
+		"month": 3,
+		"day": 15,
+		"name": "Saint Louise de Marillac",
+		"description": "Religious and co-founder of the Daughters of Charity."
+	},
+	{
+		"month": 3,
+		"day": 16,
+		"name": "Saint Abraham Kidunaia",
+		"description": "Hermit and confessor."
+	},
+	{
+		"month": 3,
+		"day": 17,
+		"name": "Saint Patrick",
+		"description": "Bishop and patron saint of Ireland."
+	},
+	{
+		"month": 3,
+		"day": 18,
+		"name": "Saint Cyril of Jerusalem",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 3,
+		"day": 19,
+		"name": "Saint Joseph, Spouse of the Blessed Virgin Mary",
+		"description": "Solemnity of Saint Joseph, patron of the Universal Church."
+	},
+	{
+		"month": 3,
+		"day": 20,
+		"name": "Saint Salvator of Horta",
+		"description": "Franciscan lay brother and miracle worker."
+	},
+	{
+		"month": 3,
+		"day": 21,
+		"name": "Saint Nicholas of Flüe",
+		"description": "Hermit and patron saint of Switzerland."
+	},
+	{
+		"month": 3,
+		"day": 22,
+		"name": "Saint Lea of Rome",
+		"description": "Widow and religious."
+	},
+	{
+		"month": 3,
+		"day": 23,
+		"name": "Saint Turibius of Mogrovejo",
+		"description": "Bishop and missionary to Peru."
+	},
+	{
+		"month": 3,
+		"day": 24,
+		"name": "Saint Oscar Romero",
+		"description": "Archbishop and martyr."
+	},
+	{
+		"month": 3,
+		"day": 25,
+		"name": "Annunciation of the Lord",
+		"description": "Solemnity of the Annunciation."
+	},
+	{
+		"month": 3,
+		"day": 26,
+		"name": "Saint Margaret Clitherow",
+		"description": "Martyr of England."
+	},
+	{
+		"month": 3,
+		"day": 27,
+		"name": "Saint Rupert of Salzburg",
+		"description": "Bishop and missionary."
+	},
+	{
+		"month": 3,
+		"day": 28,
+		"name": "Saint Guntramnus",
+		"description": "King and confessor."
+	},
+	{
+		"month": 3,
+		"day": 29,
+		"name": "Saint Ludovico of Casoria",
+		"description": "Franciscan priest and founder."
+	},
+	{
+		"month": 3,
+		"day": 30,
+		"name": "Saint John Climacus",
+		"description": "Abbot and author of 'The Ladder of Divine Ascent'."
+	},
+	{
+		"month": 3,
+		"day": 31,
+		"name": "Saint Benjamin",
+		"description": "Deacon and martyr."
+	},
+
+	{
+		"month": 4,
+		"day": 1,
+		"name": "Saint Hugh of Grenoble",
+		"description": "Bishop and reformer."
+	},
+	{
+		"month": 4,
+		"day": 2,
+		"name": "Saint Francis of Paola",
+		"description": "Hermit and founder of the Order of Minims."
+	},
+	{
+		"month": 4,
+		"day": 3,
+		"name": "Saint Richard of Chichester",
+		"description": "Bishop and confessor."
+	},
+	{
+		"month": 4,
+		"day": 4,
+		"name": "Saint Isidore of Seville",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 4,
+		"day": 5,
+		"name": "Saint Vincent Ferrer",
+		"description": "Dominican priest and missionary."
+	},
+	{
+		"month": 4,
+		"day": 6,
+		"name": "Saint Celestine I",
+		"description": "Pope and confessor."
+	},
+	{
+		"month": 4,
+		"day": 7,
+		"name": "Saint John Baptist de la Salle",
+		"description": "Priest and founder of the Institute of the Brothers of the Christian Schools."
+	},
+	{
+		"month": 4,
+		"day": 8,
+		"name": "Saint Julie Billiart",
+		"description": "Virgin and foundress of the Sisters of Notre Dame."
+	},
+	{
+		"month": 4,
+		"day": 9,
+		"name": "Saint Mary of Cleophas",
+		"description": "Disciple of Jesus."
+	},
+	{
+		"month": 4,
+		"day": 10,
+		"name": "Saint Magdalen of Canossa",
+		"description": "Virgin and foundress of the Canossian Daughters of Charity."
+	},
+	{
+		"month": 4,
+		"day": 11,
+		"name": "Saint Stanislaus of Szczepanów",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 4,
+		"day": 12,
+		"name": "Saint Teresa of Los Andes",
+		"description": "Carmelite nun and mystic."
+	},
+	{
+		"month": 4,
+		"day": 13,
+		"name": "Saint Martin I",
+		"description": "Pope and martyr."
+	},
+	{
+		"month": 4,
+		"day": 14,
+		"name": "Saint Peter Gonzales",
+		"description": "Dominican priest and missionary."
+	},
+	{
+		"month": 4,
+		"day": 15,
+		"name": "Saint Hunna",
+		"description": "Laywoman known as 'the Holy Washerwoman'."
+	},
+	{
+		"month": 4,
+		"day": 16,
+		"name": "Saint Bernadette Soubirous",
+		"description": "Visionary of Lourdes."
+	},
+	{
+		"month": 4,
+		"day": 17,
+		"name": "Saint Benedict Joseph Labre",
+		"description": "Pilgrim and confessor."
+	},
+	{
+		"month": 4,
+		"day": 18,
+		"name": "Saint Apollonius the Apologist",
+		"description": "Martyr and apologist."
+	},
+	{
+		"month": 4,
+		"day": 19,
+		"name": "Saint Leo IX",
+		"description": "Pope and reformer."
+	},
+	{
+		"month": 4,
+		"day": 20,
+		"name": "Saint Agnes of Montepulciano",
+		"description": "Dominican prioress and mystic."
+	},
+	{
+		"month": 4,
+		"day": 21,
+		"name": "Saint Anselm of Canterbury",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 4,
+		"day": 22,
+		"name": "Saint Opportuna of Montreuil",
+		"description": "Abbess and confessor."
+	},
+	{
+		"month": 4,
+		"day": 23,
+		"name": "Saint George",
+		"description": "Martyr and patron saint of England."
+	},
+	{
+		"month": 4,
+		"day": 24,
+		"name": "Saint Fidelis of Sigmaringen",
+		"description": "Capuchin priest and martyr."
+	},
+	{
+		"month": 4,
+		"day": 25,
+		"name": "Saint Mark the Evangelist",
+		"description": "Evangelist and author of the Gospel of Mark."
+	},
+	{
+		"month": 4,
+		"day": 26,
+		"name": "Saint Cletus",
+		"description": "Pope and martyr."
+	},
+	{
+		"month": 4,
+		"day": 27,
+		"name": "Saint Zita",
+		"description": "Virgin and patroness of domestic workers."
+	},
+	{
+		"month": 4,
+		"day": 28,
+		"name": "Saint Louis Mary Grignion de Montfort",
+		"description": "Priest and founder of the Company of Mary."
+	},
+	{
+		"month": 4,
+		"day": 29,
+		"name": "Saint Catherine of Siena",
+		"description": "Virgin, mystic, and Doctor of the Church."
+	},
+	{
+		"month": 4,
+		"day": 30,
+		"name": "Saint Pius V",
+		"description": "Pope and reformer."
+	},
+	{
+		"month": 5,
+		"day": 1,
+		"name": "Saint Joseph the Worker",
+		"description": "Feast honoring Saint Joseph as a worker."
+	},
+	{
+		"month": 5,
+		"day": 2,
+		"name": "Saint Athanasius of Alexandria",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 5,
+		"day": 3,
+		"name": "Saints Philip and James",
+		"description": "Apostles."
+	},
+	{
+		"month": 5,
+		"day": 4,
+		"name": "Saint Florian",
+		"description": "Martyr and patron of firefighters."
+	},
+	{
+		"month": 5,
+		"day": 5,
+		"name": "Saint Angelus",
+		"description": "Carmelite priest and martyr."
+	},
+	{
+		"month": 5,
+		"day": 6,
+		"name": "Saint Dominic Savio",
+		"description": "Student of Saint John Bosco."
+	},
+	{
+		"month": 5,
+		"day": 7,
+		"name": "Saint Rose Venerini",
+		"description": "Religious and foundress of the Venerini Sisters."
+	},
+	{
+		"month": 5,
+		"day": 8,
+		"name": "Saint Peter of Tarentaise",
+		"description": "Cistercian abbot and archbishop."
+	},
+	{
+		"month": 5,
+		"day": 9,
+		"name": "Saint Pachomius",
+		"description": "Founder of Christian cenobitic monasticism."
+	},
+	{
+		"month": 5,
+		"day": 10,
+		"name": "Saint Damien of Molokai",
+		"description": "Priest and missionary to lepers in Hawaii."
+	},
+	{
+		"month": 5,
+		"day": 11,
+		"name": "Saint Ignatius of Laconi",
+		"description": "Capuchin friar and confessor."
+	},
+	{
+		"month": 5,
+		"day": 12,
+		"name": "Saint Pancras",
+		"description": "Martyr and patron of children."
+	},
+	{
+		"month": 5,
+		"day": 13,
+		"name": "Our Lady of Fatima",
+		"description": "Commemoration of the Marian apparitions at Fatima."
+	},
+	{
+		"month": 5,
+		"day": 14,
+		"name": "Saint Matthias",
+		"description": "Apostle."
+	},
+	{
+		"month": 5,
+		"day": 15,
+		"name": "Saint Isidore the Farmer",
+		"description": "Patron of farmers and rural communities."
+	},
+	{
+		"month": 5,
+		"day": 16,
+		"name": "Saint Simon Stock",
+		"description": "Carmelite prior and recipient of the Brown Scapular."
+	},
+	{
+		"month": 5,
+		"day": 17,
+		"name": "Saint Paschal Baylon",
+		"description": "Franciscan lay brother and mystic."
+	},
+	{
+		"month": 5,
+		"day": 18,
+		"name": "Saint John I",
+		"description": "Pope and martyr."
+	},
+	{
+		"month": 5,
+		"day": 19,
+		"name": "Saint Celestine V",
+		"description": "Pope and hermit."
+	},
+	{
+		"month": 5,
+		"day": 20,
+		"name": "Saint Bernardine of Siena",
+		"description": "Franciscan priest and missionary."
+	},
+	{
+		"month": 5,
+		"day": 21,
+		"name": "Saint Christopher Magallanes and Companions",
+		"description": "Priests and martyrs of Mexico."
+	},
+	{
+		"month": 5,
+		"day": 22,
+		"name": "Saint Rita of Cascia",
+		"description": "Augustinian nun and patroness of impossible causes."
+	},
+	{
+		"month": 5,
+		"day": 23,
+		"name": "Saint John Baptist de Rossi",
+		"description": "Priest and confessor."
+	},
+	{
+		"month": 5,
+		"day": 24,
+		"name": "Mary Help of Christians",
+		"description": "Feast of Mary, Help of Christians."
+	},
+	{
+		"month": 5,
+		"day": 25,
+		"name": "Saint Bede the Venerable",
+		"description": "Priest, monk, and Doctor of the Church."
+	},
+	{
+		"month": 5,
+		"day": 26,
+		"name": "Saint Philip Neri",
+		"description": "Priest and founder of the Congregation of the Oratory."
+	},
+	{
+		"month": 5,
+		"day": 27,
+		"name": "Saint Augustine of Canterbury",
+		"description": "Bishop and missionary to England."
+	},
+	{
+		"month": 5,
+		"day": 28,
+		"name": "Saint Germanus of Paris",
+		"description": "Bishop and confessor."
+	},
+	{
+		"month": 5,
+		"day": 29,
+		"name": "Saint Paul VI",
+		"description": "Pope and reformer."
+	},
+	{
+		"month": 5,
+		"day": 30,
+		"name": "Saint Joan of Arc",
+		"description": "Virgin, martyr, and patroness of France."
+	},
+	{
+		"month": 5,
+		"day": 31,
+		"name": "Visitation of the Blessed Virgin Mary",
+		"description": "Feast of the Visitation."
+	},
+	{
+		"month": 6,
+		"day": 1,
+		"name": "Saint Justin Martyr",
+		"description": "Philosopher and martyr."
+	},
+	{
+		"month": 6,
+		"day": 2,
+		"name": "Saints Marcellinus and Peter",
+		"description": "Martyrs."
+	},
+	{
+		"month": 6,
+		"day": 3,
+		"name": "Saint Charles Lwanga and Companions",
+		"description": "Martyrs of Uganda."
+	},
+	{
+		"month": 6,
+		"day": 4,
+		"name": "Saint Francis Caracciolo",
+		"description": "Priest and founder of the Minor Clerks Regular."
+	},
+	{
+		"month": 6,
+		"day": 5,
+		"name": "Saint Boniface",
+		"description": "Bishop and martyr, apostle of Germany."
+	},
+	{
+		"month": 6,
+		"day": 6,
+		"name": "Saint Norbert",
+		"description": "Bishop and founder of the Premonstratensians."
+	},
+	{
+		"month": 6,
+		"day": 7,
+		"name": "Saint Robert of Newminster",
+		"description": "Abbot and reformer."
+	},
+	{
+		"month": 6,
+		"day": 8,
+		"name": "Saint William of York",
+		"description": "Archbishop and confessor."
+	},
+	{
+		"month": 6,
+		"day": 9,
+		"name": "Saint Ephrem",
+		"description": "Deacon and Doctor of the Church."
+	},
+	{
+		"month": 6,
+		"day": 10,
+		"name": "Saint Landry of Paris",
+		"description": "Bishop and founder of the first hospital in Paris."
+	},
+	{
+		"month": 6,
+		"day": 11,
+		"name": "Saint Barnabas",
+		"description": "Apostle."
+	},
+	{
+		"month": 6,
+		"day": 12,
+		"name": "Saint Leo III",
+		"description": "Pope and confessor."
+	},
+	{
+		"month": 6,
+		"day": 13,
+		"name": "Saint Anthony of Padua",
+		"description": "Doctor of the Church, patron of lost things."
+	},
+	{
+		"month": 6,
+		"day": 14,
+		"name": "Saint Elisha",
+		"description": "Prophet of the Old Testament."
+	},
+	{
+		"month": 6,
+		"day": 15,
+		"name": "Saint Germaine Cousin",
+		"description": "Patron saint of abused children and the disabled."
+	},
+	{
+		"month": 6,
+		"day": 16,
+		"name": "Saint John Francis Regis",
+		"description": "Jesuit priest and missionary."
+	},
+	{
+		"month": 6,
+		"day": 17,
+		"name": "Saint Albert Chmielowski",
+		"description": "Religious and founder of the Albertine Brothers."
+	},
+	{
+		"month": 6,
+		"day": 18,
+		"name": "Saint Gregory Barbarigo",
+		"description": "Bishop and cardinal."
+	},
+	{
+		"month": 6,
+		"day": 19,
+		"name": "Saint Romuald",
+		"description": "Abbot and founder of the Camaldolese order."
+	},
+	{
+		"month": 6,
+		"day": 20,
+		"name": "Saint Silverius",
+		"description": "Pope and martyr."
+	},
+	{
+		"month": 6,
+		"day": 21,
+		"name": "Saint Aloysius Gonzaga",
+		"description": "Jesuit scholastic and patron of youth."
+	},
+	{
+		"month": 6,
+		"day": 22,
+		"name": "Saint Thomas More",
+		"description": "Martyr and patron of lawyers."
+	},
+	{
+		"month": 6,
+		"day": 22,
+		"name": "Saint John Fisher",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 6,
+		"day": 23,
+		"name": "Saint Joseph Cafasso",
+		"description": "Priest and patron of prisoners."
+	},
+	{
+		"month": 6,
+		"day": 24,
+		"name": "Nativity of Saint John the Baptist",
+		"description": "Feast of the birth of John the Baptist."
+	},
+	{
+		"month": 6,
+		"day": 25,
+		"name": "Saint William of Vercelli",
+		"description": "Abbot and founder of the Monte Vergine monastery."
+	},
+	{
+		"month": 6,
+		"day": 26,
+		"name": "Saint Josemaría Escrivá",
+		"description": "Priest and founder of Opus Dei."
+	},
+	{
+		"month": 6,
+		"day": 27,
+		"name": "Saint Cyril of Alexandria",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 6,
+		"day": 28,
+		"name": "Saint Irenaeus of Lyons",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 6,
+		"day": 29,
+		"name": "Saints Peter and Paul",
+		"description": "Apostles and martyrs."
+	},
+	{
+		"month": 6,
+		"day": 30,
+		"name": "First Martyrs of the Church of Rome",
+		"description": "Commemoration of the early Roman martyrs."
+	},
+	{
+		"month": 7,
+		"day": 1,
+		"name": "Saint Junípero Serra",
+		"description": "Priest and missionary to California."
+	},
+	{
+		"month": 7,
+		"day": 2,
+		"name": "Saint Otto of Bamberg",
+		"description": "Bishop and missionary to Pomerania."
+	},
+	{
+		"month": 7,
+		"day": 3,
+		"name": "Saint Thomas the Apostle",
+		"description": "Apostle and martyr."
+	},
+	{
+		"month": 7,
+		"day": 4,
+		"name": "Saint Elizabeth of Portugal",
+		"description": "Queen and peacemaker."
+	},
+	{
+		"month": 7,
+		"day": 5,
+		"name": "Saint Anthony Mary Zaccaria",
+		"description": "Priest and founder of the Barnabites."
+	},
+	{
+		"month": 7,
+		"day": 6,
+		"name": "Saint Maria Goretti",
+		"description": "Virgin and martyr."
+	},
+	{
+		"month": 7,
+		"day": 7,
+		"name": "Saint Willibald",
+		"description": "Bishop and missionary."
+	},
+	{
+		"month": 7,
+		"day": 8,
+		"name": "Saint Gregory Grassi and Companions",
+		"description": "Martyrs of China."
+	},
+	{
+		"month": 7,
+		"day": 9,
+		"name": "Saint Augustine Zhao Rong and Companions",
+		"description": "Martyrs of China."
+	},
+	{
+		"month": 7,
+		"day": 10,
+		"name": "Saints Rufina and Secunda",
+		"description": "Virgin martyrs."
+	},
+	{
+		"month": 7,
+		"day": 11,
+		"name": "Saint Benedict of Nursia",
+		"description": "Abbot and founder of Western monasticism."
+	},
+	{
+		"month": 7,
+		"day": 12,
+		"name": "Saint John Gualbert",
+		"description": "Abbot and founder of the Vallombrosians."
+	},
+	{
+		"month": 7,
+		"day": 13,
+		"name": "Saint Henry",
+		"description": "Emperor and confessor."
+	},
+	{
+		"month": 7,
+		"day": 14,
+		"name": "Saint Kateri Tekakwitha",
+		"description": "Virgin and first Native American saint."
+	},
+	{
+		"month": 7,
+		"day": 15,
+		"name": "Saint Bonaventure",
+		"description": "Bishop, cardinal, and Doctor of the Church."
+	},
+	{
+		"month": 7,
+		"day": 16,
+		"name": "Our Lady of Mount Carmel",
+		"description": "Feast of Our Lady of Mount Carmel."
+	},
+	{
+		"month": 7,
+		"day": 17,
+		"name": "Saint Alexius of Rome",
+		"description": "Confessor and pilgrim."
+	},
+	{
+		"month": 7,
+		"day": 18,
+		"name": "Saint Camillus de Lellis",
+		"description": "Priest and founder of the Camillians."
+	},
+	{
+		"month": 7,
+		"day": 19,
+		"name": "Saint Macrina the Younger",
+		"description": "Virgin and nun."
+	},
+	{
+		"month": 7,
+		"day": 20,
+		"name": "Saint Apollinaris of Ravenna",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 7,
+		"day": 21,
+		"name": "Saint Lawrence of Brindisi",
+		"description": "Priest and Doctor of the Church."
+	},
+	{
+		"month": 7,
+		"day": 22,
+		"name": "Saint Mary Magdalene",
+		"description": "Disciple of Jesus and apostle to the apostles."
+	},
+	{
+		"month": 7,
+		"day": 23,
+		"name": "Saint Bridget of Sweden",
+		"description": "Religious and mystic."
+	},
+	{
+		"month": 7,
+		"day": 24,
+		"name": "Saint Sharbel Makhluf",
+		"description": "Priest and hermit."
+	},
+	{
+		"month": 7,
+		"day": 25,
+		"name": "Saint James the Greater",
+		"description": "Apostle and martyr."
+	},
+	{
+		"month": 7,
+		"day": 26,
+		"name": "Saints Joachim and Anne",
+		"description": "Parents of the Blessed Virgin Mary."
+	},
+	{
+		"month": 7,
+		"day": 27,
+		"name": "Saint Pantaleon",
+		"description": "Physician and martyr."
+	},
+	{
+		"month": 7,
+		"day": 28,
+		"name": "Saint Alphonsa of the Immaculate Conception",
+		"description": "Religious and first Indian woman saint."
+	},
+	{
+		"month": 7,
+		"day": 29,
+		"name": "Saint Martha",
+		"description": "Sister of Mary and Lazarus."
+	},
+	{
+		"month": 7,
+		"day": 30,
+		"name": "Saint Peter Chrysologus",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 7,
+		"day": 31,
+		"name": "Saint Ignatius of Loyola",
+		"description": "Priest and founder of the Society of Jesus (Jesuits)."
+	},
+	{
+		"month": 8,
+		"day": 1,
+		"name": "Saint Alphonsus Liguori",
+		"description": "Bishop, Doctor of the Church, and founder of the Redemptorists."
+	},
+	{
+		"month": 8,
+		"day": 2,
+		"name": "Saint Eusebius of Vercelli",
+		"description": "Bishop and confessor."
+	},
+	{
+		"month": 8,
+		"day": 3,
+		"name": "Saint Lydia Purpuraria",
+		"description": "First European convert of Saint Paul."
+	},
+	{
+		"month": 8,
+		"day": 4,
+		"name": "Saint John Vianney",
+		"description": "Priest and patron of parish priests."
+	},
+	{
+		"month": 8,
+		"day": 5,
+		"name": "Dedication of the Basilica of Saint Mary Major",
+		"description": "Feast of the dedication of the Basilica of Saint Mary Major in Rome."
+	},
+	{
+		"month": 8,
+		"day": 6,
+		"name": "Transfiguration of the Lord",
+		"description": "Feast of the Transfiguration of Jesus."
+	},
+	{
+		"month": 8,
+		"day": 7,
+		"name": "Saint Cajetan",
+		"description": "Priest and founder of the Theatines."
+	},
+	{
+		"month": 8,
+		"day": 8,
+		"name": "Saint Dominic",
+		"description": "Priest and founder of the Order of Preachers (Dominicans)."
+	},
+	{
+		"month": 8,
+		"day": 9,
+		"name": "Saint Teresa Benedicta of the Cross (Edith Stein)",
+		"description": "Virgin, martyr, and philosopher."
+	},
+	{
+		"month": 8,
+		"day": 10,
+		"name": "Saint Lawrence",
+		"description": "Deacon and martyr."
+	},
+	{
+		"month": 8,
+		"day": 11,
+		"name": "Saint Clare of Assisi",
+		"description": "Virgin and founder of the Poor Clares."
+	},
+	{
+		"month": 8,
+		"day": 12,
+		"name": "Saint Jane Frances de Chantal",
+		"description": "Religious and founder of the Visitation Order."
+	},
+	{
+		"month": 8,
+		"day": 13,
+		"name": "Saint Pontian and Saint Hippolytus",
+		"description": "Popes and martyrs."
+	},
+	{
+		"month": 8,
+		"day": 14,
+		"name": "Saint Maximilian Kolbe",
+		"description": "Priest and martyr."
+	},
+	{
+		"month": 8,
+		"day": 15,
+		"name": "Assumption of the Blessed Virgin Mary",
+		"description": "Solemnity of the Assumption."
+	},
+	{
+		"month": 8,
+		"day": 16,
+		"name": "Saint Stephen of Hungary",
+		"description": "King and confessor."
+	},
+	{
+		"month": 8,
+		"day": 17,
+		"name": "Saint Hyacinth",
+		"description": "Priest and missionary."
+	},
+	{
+		"month": 8,
+		"day": 18,
+		"name": "Saint Helena",
+		"description": "Empress and mother of Constantine the Great."
+	},
+	{
+		"month": 8,
+		"day": 19,
+		"name": "Saint John Eudes",
+		"description": "Priest and founder of the Congregation of Jesus and Mary."
+	},
+	{
+		"month": 8,
+		"day": 20,
+		"name": "Saint Bernard of Clairvaux",
+		"description": "Abbot and Doctor of the Church."
+	},
+	{
+		"month": 8,
+		"day": 21,
+		"name": "Saint Pius X",
+		"description": "Pope and reformer."
+	},
+	{
+		"month": 8,
+		"day": 22,
+		"name": "Queenship of the Blessed Virgin Mary",
+		"description": "Memorial of the Queenship of Mary."
+	},
+	{
+		"month": 8,
+		"day": 23,
+		"name": "Saint Rose of Lima",
+		"description": "Virgin and patroness of Peru and the Americas."
+	},
+	{
+		"month": 8,
+		"day": 24,
+		"name": "Saint Bartholomew",
+		"description": "Apostle and martyr."
+	},
+	{
+		"month": 8,
+		"day": 25,
+		"name": "Saint Louis of France",
+		"description": "King and patron of the Third Order of Saint Francis."
+	},
+	{
+		"month": 8,
+		"day": 26,
+		"name": "Saint Teresa of Jesus Jornet",
+		"description": "Virgin and founder of the Little Sisters of the Abandoned Elderly."
+	},
+	{
+		"month": 8,
+		"day": 27,
+		"name": "Saint Monica",
+		"description": "Mother of Saint Augustine."
+	},
+	{
+		"month": 8,
+		"day": 28,
+		"name": "Saint Augustine of Hippo",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 8,
+		"day": 29,
+		"name": "Passion of Saint John the Baptist",
+		"description": "Memorial of the martyrdom of John the Baptist."
+	},
+	{
+		"month": 8,
+		"day": 30,
+		"name": "Saint Jeanne Jugan",
+		"description": "Virgin and founder of the Little Sisters of the Poor."
+	},
+	{
+		"month": 8,
+		"day": 31,
+		"name": "Saint Joseph of Arimathea",
+		"description": "Disciple who buried Jesus."
+	},
+
+	{
+		"month": 9,
+		"day": 1,
+		"name": "Saint Giles",
+		"description": "Abbot and patron of the disabled."
+	},
+	{
+		"month": 9,
+		"day": 2,
+		"name": "Blessed John Francis Burté and Companions",
+		"description": "Martyrs of the French Revolution."
+	},
+	{
+		"month": 9,
+		"day": 3,
+		"name": "Saint Gregory the Great",
+		"description": "Pope and Doctor of the Church."
+	},
+	{
+		"month": 9,
+		"day": 4,
+		"name": "Saint Rose of Viterbo",
+		"description": "Virgin and mystic."
+	},
+	{
+		"month": 9,
+		"day": 5,
+		"name": "Saint Teresa of Calcutta (Mother Teresa)",
+		"description": "Religious and founder of the Missionaries of Charity."
+	},
+	{
+		"month": 9,
+		"day": 6,
+		"name": "Saint Eleutherius of Spoleto",
+		"description": "Martyr."
+	},
+	{
+		"month": 9,
+		"day": 7,
+		"name": "Saint Regina",
+		"description": "Virgin and martyr."
+	},
+	{
+		"month": 9,
+		"day": 8,
+		"name": "Nativity of the Blessed Virgin Mary",
+		"description": "Feast of the birth of Mary."
+	},
+	{
+		"month": 9,
+		"day": 9,
+		"name": "Saint Peter Claver",
+		"description": "Priest and missionary to slaves."
+	},
+	{
+		"month": 9,
+		"day": 10,
+		"name": "Saint Nicholas of Tolentino",
+		"description": "Priest and confessor."
+	},
+	{
+		"month": 9,
+		"day": 11,
+		"name": "Saint John Gabriel Perboyre",
+		"description": "Priest and martyr in China."
+	},
+	{
+		"month": 9,
+		"day": 12,
+		"name": "Most Holy Name of Mary",
+		"description": "Feast of the Holy Name of Mary."
+	},
+	{
+		"month": 9,
+		"day": 13,
+		"name": "Saint John Chrysostom",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 9,
+		"day": 14,
+		"name": "Exaltation of the Holy Cross",
+		"description": "Feast of the Holy Cross."
+	},
+	{
+		"month": 9,
+		"day": 15,
+		"name": "Our Lady of Sorrows",
+		"description": "Memorial of the Seven Sorrows of Mary."
+	},
+	{
+		"month": 9,
+		"day": 16,
+		"name": "Saints Cornelius and Cyprian",
+		"description": "Pope and bishop, martyrs."
+	},
+	{
+		"month": 9,
+		"day": 17,
+		"name": "Saint Robert Bellarmine",
+		"description": "Bishop, cardinal, and Doctor of the Church."
+	},
+	{
+		"month": 9,
+		"day": 18,
+		"name": "Saint Joseph of Cupertino",
+		"description": "Franciscan priest and mystic."
+	},
+	{
+		"month": 9,
+		"day": 19,
+		"name": "Saint Januarius",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 9,
+		"day": 20,
+		"name": "Saints Andrew Kim Taegon, Paul Chong Hasang and Companions",
+		"description": "Martyrs of Korea."
+	},
+	{
+		"month": 9,
+		"day": 21,
+		"name": "Saint Matthew",
+		"description": "Apostle and evangelist."
+	},
+	{
+		"month": 9,
+		"day": 22,
+		"name": "Saint Maurice and Companions",
+		"description": "Martyrs of the Theban Legion."
+	},
+	{
+		"month": 9,
+		"day": 23,
+		"name": "Saint Pio of Pietrelcina (Padre Pio)",
+		"description": "Priest, stigmatist, and mystic."
+	},
+	{
+		"month": 9,
+		"day": 24,
+		"name": "Our Lady of Mercy",
+		"description": "Feast of Our Lady of Ransom."
+	},
+	{
+		"month": 9,
+		"day": 25,
+		"name": "Saint Finbarr",
+		"description": "Bishop and patron of Cork."
+	},
+	{
+		"month": 9,
+		"day": 26,
+		"name": "Saints Cosmas and Damian",
+		"description": "Physicians and martyrs."
+	},
+	{
+		"month": 9,
+		"day": 27,
+		"name": "Saint Vincent de Paul",
+		"description": "Priest and founder of the Congregation of the Mission."
+	},
+	{
+		"month": 9,
+		"day": 28,
+		"name": "Saint Wenceslaus",
+		"description": "Duke and martyr."
+	},
+	{
+		"month": 9,
+		"day": 29,
+		"name": "Saints Michael, Gabriel, and Raphael",
+		"description": "Archangels."
+	},
+	{
+		"month": 9,
+		"day": 30,
+		"name": "Saint Jerome",
+		"description": "Priest, confessor, and Doctor of the Church."
+	},
+	{
+		"month": 10,
+		"day": 1,
+		"name": "Saint Thérèse of the Child Jesus (of Lisieux)",
+		"description": "Virgin and Doctor of the Church."
+	},
+	{
+		"month": 10,
+		"day": 2,
+		"name": "Guardian Angels",
+		"description": "Memorial of the Holy Guardian Angels."
+	},
+	{
+		"month": 10,
+		"day": 3,
+		"name": "Saint Gerard of Brogne",
+		"description": "Abbot and reformer."
+	},
+	{
+		"month": 10,
+		"day": 4,
+		"name": "Saint Francis of Assisi",
+		"description": "Deacon and founder of the Franciscans."
+	},
+	{
+		"month": 10,
+		"day": 5,
+		"name": "Saint Faustina Kowalska",
+		"description": "Religious and apostle of Divine Mercy."
+	},
+	{
+		"month": 10,
+		"day": 6,
+		"name": "Saint Bruno",
+		"description": "Priest and founder of the Carthusians."
+	},
+	{
+		"month": 10,
+		"day": 7,
+		"name": "Our Lady of the Rosary",
+		"description": "Feast of Our Lady of the Rosary."
+	},
+	{
+		"month": 10,
+		"day": 8,
+		"name": "Saint Pelagia the Penitent",
+		"description": "Penitent and hermit."
+	},
+	{
+		"month": 10,
+		"day": 9,
+		"name": "Saint Denis and Companions",
+		"description": "Bishop and martyrs."
+	},
+	{
+		"month": 10,
+		"day": 10,
+		"name": "Saint Francis Borgia",
+		"description": "Priest and third Superior General of the Jesuits."
+	},
+	{
+		"month": 10,
+		"day": 11,
+		"name": "Saint John XXIII",
+		"description": "Pope and reformer."
+	},
+	{
+		"month": 10,
+		"day": 12,
+		"name": "Saint Wilfrid",
+		"description": "Bishop and missionary."
+	},
+	{
+		"month": 10,
+		"day": 13,
+		"name": "Saint Edward the Confessor",
+		"description": "King and confessor."
+	},
+	{
+		"month": 10,
+		"day": 14,
+		"name": "Saint Callistus I",
+		"description": "Pope and martyr."
+	},
+	{
+		"month": 10,
+		"day": 15,
+		"name": "Saint Teresa of Jesus (of Avila)",
+		"description": "Virgin, mystic, and Doctor of the Church."
+	},
+	{
+		"month": 10,
+		"day": 16,
+		"name": "Saint Hedwig",
+		"description": "Religious and duchess."
+	},
+	{
+		"month": 10,
+		"day": 16,
+		"name": "Saint Margaret Mary Alacoque",
+		"description": "Religious and promoter of devotion to the Sacred Heart."
+	},
+	{
+		"month": 10,
+		"day": 17,
+		"name": "Saint Ignatius of Antioch",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 10,
+		"day": 18,
+		"name": "Saint Luke",
+		"description": "Evangelist and author of the Gospel of Luke."
+	},
+	{
+		"month": 10,
+		"day": 19,
+		"name": "Saints John de Brébeuf, Isaac Jogues and Companions",
+		"description": "Jesuit martyrs of North America."
+	},
+	{
+		"month": 10,
+		"day": 20,
+		"name": "Saint Paul of the Cross",
+		"description": "Priest and founder of the Passionists."
+	},
+	{
+		"month": 10,
+		"day": 21,
+		"name": "Saint Ursula and Companions",
+		"description": "Virgin martyrs."
+	},
+	{
+		"month": 10,
+		"day": 22,
+		"name": "Saint John Paul II",
+		"description": "Pope and reformer."
+	},
+	{
+		"month": 10,
+		"day": 23,
+		"name": "Saint John of Capistrano",
+		"description": "Priest and Franciscan preacher."
+	},
+	{
+		"month": 10,
+		"day": 24,
+		"name": "Saint Anthony Mary Claret",
+		"description": "Bishop and founder of the Claretians."
+	},
+	{
+		"month": 10,
+		"day": 25,
+		"name": "Saint Crispin and Saint Crispinian",
+		"description": "Martyrs and patron saints of cobblers."
+	},
+	{
+		"month": 10,
+		"day": 26,
+		"name": "Saint Alfred the Great",
+		"description": "King and confessor."
+	},
+	{
+		"month": 10,
+		"day": 27,
+		"name": "Saint Frumentius",
+		"description": "Bishop and apostle to Ethiopia."
+	},
+	{
+		"month": 10,
+		"day": 28,
+		"name": "Saints Simon and Jude",
+		"description": "Apostles and martyrs."
+	},
+	{
+		"month": 10,
+		"day": 29,
+		"name": "Saint Narcissus of Jerusalem",
+		"description": "Bishop and confessor."
+	},
+	{
+		"month": 10,
+		"day": 30,
+		"name": "Saint Alphonsus Rodriguez",
+		"description": "Religious and porter."
+	},
+	{
+		"month": 10,
+		"day": 31,
+		"name": "Saint Wolfgang of Regensburg",
+		"description": "Bishop and reformer."
+	},
+	{
+		"month": 11,
+		"day": 1,
+		"name": "All Saints' Day",
+		"description": "Solemnity honoring all the saints."
+	},
+	{
+		"month": 11,
+		"day": 2,
+		"name": "All Souls' Day",
+		"description": "Commemoration of all the faithful departed."
+	},
+	{
+		"month": 11,
+		"day": 3,
+		"name": "Saint Martin de Porres",
+		"description": "Religious and patron of social justice."
+	},
+	{
+		"month": 11,
+		"day": 4,
+		"name": "Saint Charles Borromeo",
+		"description": "Bishop and cardinal."
+	},
+	{
+		"month": 11,
+		"day": 5,
+		"name": "Saint Elizabeth",
+		"description": "Mother of John the Baptist."
+	},
+	{
+		"month": 11,
+		"day": 6,
+		"name": "Saint Leonard of Noblac",
+		"description": "Hermit and patron of prisoners."
+	},
+	{
+		"month": 11,
+		"day": 7,
+		"name": "Saint Willibrord",
+		"description": "Bishop and missionary to the Frisians."
+	},
+	{
+		"month": 11,
+		"day": 8,
+		"name": "Saint Godfrey of Amiens",
+		"description": "Bishop and reformer."
+	},
+	{
+		"month": 11,
+		"day": 9,
+		"name": "Dedication of the Lateran Basilica",
+		"description": "Feast of the dedication of the Basilica of St. John Lateran."
+	},
+	{
+		"month": 11,
+		"day": 10,
+		"name": "Saint Leo the Great",
+		"description": "Pope and Doctor of the Church."
+	},
+	{
+		"month": 11,
+		"day": 11,
+		"name": "Saint Martin of Tours",
+		"description": "Bishop and patron of soldiers."
+	},
+	{
+		"month": 11,
+		"day": 12,
+		"name": "Saint Josaphat",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 11,
+		"day": 13,
+		"name": "Saint Frances Xavier Cabrini",
+		"description": "Religious and missionary."
+	},
+	{
+		"month": 11,
+		"day": 14,
+		"name": "Saint Lawrence O'Toole",
+		"description": "Archbishop and reformer."
+	},
+	{
+		"month": 11,
+		"day": 15,
+		"name": "Saint Albert the Great",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 11,
+		"day": 16,
+		"name": "Saint Margaret of Scotland",
+		"description": "Queen and patroness of Scotland."
+	},
+	{
+		"month": 11,
+		"day": 16,
+		"name": "Saint Gertrude the Great",
+		"description": "Virgin and mystic."
+	},
+	{
+		"month": 11,
+		"day": 17,
+		"name": "Saint Elizabeth of Hungary",
+		"description": "Princess and patroness of bakers."
+	},
+	{
+		"month": 11,
+		"day": 18,
+		"name": "Dedication of the Basilicas of Saints Peter and Paul",
+		"description": "Feast of the dedication of the Basilicas of Saints Peter and Paul in Rome."
+	},
+	{
+		"month": 11,
+		"day": 19,
+		"name": "Saint Agnes of Assisi",
+		"description": "Virgin and abbess."
+	},
+	{
+		"month": 11,
+		"day": 20,
+		"name": "Saint Edmund",
+		"description": "King and martyr."
+	},
+	{
+		"month": 11,
+		"day": 21,
+		"name": "Presentation of the Blessed Virgin Mary",
+		"description": "Memorial of the Presentation of Mary."
+	},
+	{
+		"month": 11,
+		"day": 22,
+		"name": "Saint Cecilia",
+		"description": "Virgin and martyr, patroness of musicians."
+	},
+	{
+		"month": 11,
+		"day": 23,
+		"name": "Saint Clement I",
+		"description": "Pope and martyr."
+	},
+	{
+		"month": 11,
+		"day": 24,
+		"name": "Saint Andrew Dũng-Lạc and Companions",
+		"description": "Martyrs of Vietnam."
+	},
+	{
+		"month": 11,
+		"day": 25,
+		"name": "Saint Catherine of Alexandria",
+		"description": "Virgin and martyr."
+	},
+	{
+		"month": 11,
+		"day": 26,
+		"name": "Saint John Berchmans",
+		"description": "Jesuit scholastic and patron of altar servers."
+	},
+	{
+		"month": 11,
+		"day": 27,
+		"name": "Our Lady of the Miraculous Medal",
+		"description": "Commemoration of the apparition to Saint Catherine Labouré."
+	},
+	{
+		"month": 11,
+		"day": 28,
+		"name": "Saint Catherine Labouré",
+		"description": "Religious and visionary."
+	},
+	{
+		"month": 11,
+		"day": 29,
+		"name": "Saint Saturninus",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 11,
+		"day": 30,
+		"name": "Saint Andrew",
+		"description": "Apostle and martyr."
+	},
+
+	{
+		"month": 12,
+		"day": 1,
+		"name": "Saint Edmund Campion",
+		"description": "Priest and martyr."
+	},
+	{
+		"month": 12,
+		"day": 2,
+		"name": "Saint Bibiana",
+		"description": "Virgin and martyr."
+	},
+	{
+		"month": 12,
+		"day": 3,
+		"name": "Saint Francis Xavier",
+		"description": "Priest and missionary."
+	},
+	{
+		"month": 12,
+		"day": 4,
+		"name": "Saint John Damascene",
+		"description": "Priest and Doctor of the Church."
+	},
+	{
+		"month": 12,
+		"day": 5,
+		"name": "Saint Sabas",
+		"description": "Abbot and founder of Mar Saba monastery."
+	},
+	{
+		"month": 12,
+		"day": 6,
+		"name": "Saint Nicholas",
+		"description": "Bishop and patron of children."
+	},
+	{
+		"month": 12,
+		"day": 7,
+		"name": "Saint Ambrose",
+		"description": "Bishop and Doctor of the Church."
+	},
+	{
+		"month": 12,
+		"day": 8,
+		"name": "Immaculate Conception of the Blessed Virgin Mary",
+		"description": "Solemnity of the Immaculate Conception."
+	},
+	{
+		"month": 12,
+		"day": 9,
+		"name": "Saint Juan Diego",
+		"description": "Visionary of Our Lady of Guadalupe."
+	},
+	{
+		"month": 12,
+		"day": 10,
+		"name": "Our Lady of Loreto",
+		"description": "Feast of the Holy House of Loreto."
+	},
+	{
+		"month": 12,
+		"day": 11,
+		"name": "Saint Damasus I",
+		"description": "Pope and confessor."
+	},
+	{
+		"month": 12,
+		"day": 12,
+		"name": "Our Lady of Guadalupe",
+		"description": "Feast of the apparition to Juan Diego."
+	},
+	{
+		"month": 12,
+		"day": 13,
+		"name": "Saint Lucy",
+		"description": "Virgin and martyr."
+	},
+	{
+		"month": 12,
+		"day": 14,
+		"name": "Saint John of the Cross",
+		"description": "Priest, mystic, and Doctor of the Church."
+	},
+	{
+		"month": 12,
+		"day": 15,
+		"name": "Saint Mary di Rosa",
+		"description": "Religious and foundress of the Handmaids of Charity."
+	},
+	{
+		"month": 12,
+		"day": 16,
+		"name": "Saint Adelaide of Burgundy",
+		"description": "Empress and patroness of abuse victims."
+	},
+	{
+		"month": 12,
+		"day": 17,
+		"name": "Saint Lazarus",
+		"description": "Friend of Jesus, raised from the dead."
+	},
+	{
+		"month": 12,
+		"day": 18,
+		"name": "Saint Flannan",
+		"description": "Bishop and missionary."
+	},
+	{
+		"month": 12,
+		"day": 19,
+		"name": "Saint Nemesius and Companions",
+		"description": "Martyrs."
+	},
+	{
+		"month": 12,
+		"day": 20,
+		"name": "Saint Dominic of Silos",
+		"description": "Abbot and confessor."
+	},
+	{
+		"month": 12,
+		"day": 21,
+		"name": "Saint Peter Canisius",
+		"description": "Priest and Doctor of the Church."
+	},
+	{
+		"month": 12,
+		"day": 22,
+		"name": "Saint Frances Xavier Cabrini",
+		"description": "Religious and missionary."
+	},
+	{
+		"month": 12,
+		"day": 23,
+		"name": "Saint John of Kanty",
+		"description": "Priest and confessor."
+	},
+	{
+		"month": 12,
+		"day": 24,
+		"name": "Saint Adele",
+		"description": "Abbess and confessor."
+	},
+	{
+		"month": 12,
+		"day": 25,
+		"name": "Nativity of the Lord (Christmas)",
+		"description": "Solemnity of the birth of Jesus Christ."
+	},
+	{
+		"month": 12,
+		"day": 26,
+		"name": "Saint Stephen",
+		"description": "First martyr of the Church."
+	},
+	{
+		"month": 12,
+		"day": 27,
+		"name": "Saint John the Apostle",
+		"description": "Apostle and evangelist."
+	},
+	{
+		"month": 12,
+		"day": 28,
+		"name": "Holy Innocents",
+		"description": "Feast of the children killed by Herod."
+	},
+	{
+		"month": 12,
+		"day": 29,
+		"name": "Saint Thomas Becket",
+		"description": "Bishop and martyr."
+	},
+	{
+		"month": 12,
+		"day": 30,
+		"name": "Saint Anysia of Thessalonica",
+		"description": "Virgin and martyr."
+	},
+	{
+		"month": 12,
+		"day": 31,
+		"name": "Saint Sylvester I",
+		"description": "Pope and confessor."
+	}
+]
