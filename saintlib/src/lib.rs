@@ -27,3 +27,55 @@ pub fn saints_for_date(saints: &[Saint], month: u32, day: u32) -> Vec<Saint> {
         .cloned() // Clone them so we can return owned values
         .collect() // Collect into a Vec<Saint>
 }
+
+// Test
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    fn sample_saints() -> Vec<Saint> {
+        vec![
+            Saint {
+                month: 1,
+                day: 1,
+                name: "Marie".to_string(),
+                description: "Mère de Dieu".to_string(),
+            },
+            Saint {
+                month: 1,
+                day: 2,
+                name: "Basile".to_string(),
+                description: "Évêque".to_string(),
+            },
+            Saint {
+                month: 2,
+                day: 1,
+                name: "Blaise".to_string(),
+                description: "Martyr".to_string(),
+            },
+        ]
+    }
+
+    #[test]
+    fn test_saints_for_date() {
+        let saints = sample_saints();
+        let result = saints_for_date(&saints, 1, 1);
+        assert_eq!(result.len(), 1);
+        assert_eq!(result[0].name, "Marie");
+    }
+
+    // #[test]
+    // fn test_saints_for_name() {
+    //     let saints = sample_saints();
+    //     let result = saints_for_name(&saints, "bas");
+    //     assert_eq!(result.len(), 1);
+    //     assert_eq!(result[0].name, "Basile");
+    // }
+
+    // #[test]
+    // fn test_saints_for_month() {
+    //     let saints = sample_saints();
+    //     let result = saints_for_month(&saints, 1);
+    //     assert_eq!(result.len(), 2);
+    // }
+}
